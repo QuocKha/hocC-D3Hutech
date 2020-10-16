@@ -1,5 +1,4 @@
-# hocC-D3Hutech
-**Hutech 20DTHD3**
+# hocC-D3Hutech sponsored by **Hutech 20DTHD3**
 ---------------------
 Welb đây là README để tham khao các bài tập mình đã làm trên lớp. Trong suốt quá trình học tập, mình sẽ thường xuyên up những bài tập giao về hoặc thậm chí là đồ án lên đây để save.
 
